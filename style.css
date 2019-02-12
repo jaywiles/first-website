@@ -1,0 +1,17 @@
+body {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgba(47, 65, 99, 0.705);
+}
+
+#img1 {
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+
+#img2 {
+    height: 500px;
+    width: 400px;
+    float: right;
+}
